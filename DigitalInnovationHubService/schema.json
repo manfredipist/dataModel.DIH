@@ -1,9 +1,9 @@
 {
   "$schema": "http://json-schema.org/schema#",
   "$schemaVersion": "0.0.1",
-  "$id": "https://smart-data-models.github.io/XXXX/schema.json",
-  "title": "Sample DIH",
-  "description": "Digital Innovation Hubs are one-stop-shops that help companies to become more competitive with regard to their business/production processes.",
+  "$id": "https://smart-data-models.github.io/dataModel.DIH/DigitalInnovationHubService/schema.json",
+  "title": "Sample DIH Service",
+  "description": "Provision of insights and trend on markets to companies to stimulate their internal innovation.",
   "type": "object",
   "properties": {
     "serviceImage": {
