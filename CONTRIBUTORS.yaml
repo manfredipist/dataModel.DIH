@@ -7,7 +7,7 @@ contributors:
  organization: Engineering Ingegneria Informatica S.p.A.
  project:
  comments:
- -
+-
  name: Gabriele
  surname: De Luca
  mail: gabriele.deluca@eng.it
@@ -15,16 +15,16 @@ contributors:
  project:
  comments:
 -
-name: Manfredi
-surname: Pistone
-mail: manfredi.pistone@eng.it
-organization: Engineering Ingegneria Informatica S.p.A.
-project:
-comments:
+ name: Manfredi
+ surname: Pistone
+ mail: manfredi.pistone@eng.it
+ organization: Engineering Ingegneria Informatica S.p.A.
+ project:
+ comments:
 -
-name: Pietro
-surname: Greco
-mail: pietro.greco@eng.it
-organization: Engineering Ingegneria Informatica S.p.A.
-project:
-comments:
+ name: Pietro
+ surname: Greco
+ mail: pietro.greco@eng.it
+ organization: Engineering Ingegneria Informatica S.p.A.
+ project:
+ comments:
